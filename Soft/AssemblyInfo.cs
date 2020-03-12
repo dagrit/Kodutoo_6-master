@@ -9,7 +9,7 @@ using System.Runtime.CompilerServices;
 // [assembly: AssemblyCompany("")]
 // [assembly: AssemblyProduct("Abc.Aids")]
 // [assembly: AssemblyCopyright("Copyright ©  2019")]
-// [assembly: AssemblyTrademark("")]
+// [assembly: AssemblyTrademark("")] 
 // [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 

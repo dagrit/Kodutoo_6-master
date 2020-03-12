@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Abc.Infra
 {
+
     public abstract class FilteredRepository<TDomain, TData> : SortedRepository<TDomain, TData>, ISearching
         where TData : PeriodData, new()
         where TDomain : Entity<TData>, new()
